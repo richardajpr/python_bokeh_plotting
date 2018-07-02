@@ -7,3 +7,5 @@ Bokeh is an interactive visualization library in python. The goal of Bokeh is to
 [01 - Introduction to Bokeh](https://github.com/richardajpr/python_bokeh_plotting/blob/master/01%20-%20Introduction%20to%20Bokeh.ipynb)
 <br>
 [02 - Properties of Bokeh plots](https://github.com/richardajpr/python_bokeh_plotting/blob/master/02%20-%20Properties%20of%20Bokeh%20plots.ipynb)
+<br>
+[03 - Using External Python libraries](https://github.com/richardajpr/python_bokeh_plotting/blob/master/03%20-%20Using%20External%20libraries.ipynb)
